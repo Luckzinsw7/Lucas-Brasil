@@ -76,5 +76,17 @@ h1{
     height: auto;    /* Mantém a proporção da imagem */
     display: block;  /* Remove o espaço extra abaixo da imagem, se houver */
     margin: 0 auto;  /* Centraliza a imagem horizontalmente, se necessário */
+
+
+    .Ester{
+        background-color: black;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        padding-left: 100px;
+        font-size: 40px;
+        padding-top: 20px;
+    }
+
 }
 
