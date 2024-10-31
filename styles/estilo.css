@@ -82,8 +82,7 @@ h1{
 
 }
 
-.ester
-  
+.ester{
     background-color: black;
     display: flex;
     justify-content: space-evenly;
@@ -91,4 +90,7 @@ h1{
     padding-left: 100px;
     font-size: 40px;
     padding-top: 20px;
+ 
+
 }
+
