@@ -83,11 +83,14 @@ h1{
 }
 
 .ester {
-    background-color: black; /* Fundo preto */
-    color: white; /* Cor do texto, se necessário */
-    padding: 20px; /* Espaçamento interno */
-    margin: 20px 0; /* Espaçamento externo */
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    font-size: 40px;
+    min-height: 200px;
+    text-align: right; /* Adiciona alinhamento de texto à direita */
 }
-
 }
 
