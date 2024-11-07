@@ -79,15 +79,5 @@ h1{
 
 }
 
-.ester {
-    background-color: black;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    padding: 20px;
-    font-size: 40px;
-    min-height: 200px;
-    text-align: right; /* Adiciona alinhamento de texto à direita */
-}
-}
+
 
